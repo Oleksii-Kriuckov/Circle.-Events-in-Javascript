@@ -1,3 +1,4 @@
+“use strict”
 const button = document.querySelector("button");
 let x, input1, input2;
 const body = document.querySelector("body");
